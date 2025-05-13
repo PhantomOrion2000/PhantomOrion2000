@@ -11,13 +11,17 @@ At EY, I’ve worked on end-to-end machine learning pipelines for projects invol
 What excites me most is the power of data to uncover trends, solve complex problems, and drive smarter business strategies. I'm actively seeking opportunities in Data Science and Analytics where I can contribute to solving real-world challenges and continuously grow as a data professional.
 
 ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhantomOrion2000&theme=dark&hide_border=true&repo=AWS_Sagemaker-Flight_Price_Prediction)](https://github.com/PhantomOrion2000/AWS_Sagemaker-Flight_Price_Prediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhantomOrion2000&theme=dark&hide_border=true&repo=Youtube-Comment-Analysis)](https://github.com/PhantomOrion2000/Youtube-Comment-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhantomOrion2000&theme=dark&repo=AWS_Sagemaker-Flight_Price_Prediction)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhantomOrion2000&theme=dark&repo=Youtube-Comment-Analysis)](https://github.com/PhantomOrion2000/Youtube-Comment-Analysis)
+
+## IDE
+ ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=whit) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Skills
 - ### Languages
   [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612) 
 - ### Libraries
-  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=whit) ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 
+  ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 
 - ### Databases
   ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - ### Cloud
