@@ -11,7 +11,7 @@ At EY, I’ve worked on end-to-end machine learning pipelines for projects invol
 What excites me most is the power of data to uncover trends, solve complex problems, and drive smarter business strategies. I'm actively seeking opportunities in Data Science and Analytics where I can contribute to solving real-world challenges and continuously grow as a data professional.
 
 ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhantomOrion2000&theme=dark&repo=AWS_Sagemaker-Flight_Price_Prediction)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhantomOrion2000&theme=dark&repo=AWS_Sagemaker-Flight_Price_Prediction)](https://github.com/PhantomOrion2000/AWS_Sagemaker-Flight_Price_Prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhantomOrion2000&theme=dark&repo=Youtube-Comment-Analysis)](https://github.com/PhantomOrion2000/Youtube-Comment-Analysis)
 
 ## IDE
